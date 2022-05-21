@@ -1,0 +1,5 @@
+status_id,status_type,reactions,comments,shares,likes,loves,wows,hahas,sads,angrys
+1,video,198,245,64,170,24,4,0,0,0
+2,link,50,19,1,27,13,5,3,2,0
+3,photo,935,42,5,750,65,20,25,30,45
+4,status,1250,162,54,1020,80,15,50,85,0
